@@ -1,0 +1,13 @@
+This is a password manager, which means that you can safely keep all 
+your passwords here so you wont forget them. 
+
+You only need to remember ONE password to login.
+
+	   
+
+
+I hope you enjoy our program. Its really not a big of a deal, 
+but I really enjoyed working on it, so I hope you enjoy using it. :) 
+
+							-Prateek Ravi [2k19/co/288]
+							 
